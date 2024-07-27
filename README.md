@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot/ssm+Vue的房屋租赁出售系统084
+## 基于springboot/ssm+vue的房屋租赁出售系统(源代码+数据库+12000字论文)084
 
 ## 一、系统介绍
 本项目前后端分离(本项目还有ssm+vue版本)
